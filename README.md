@@ -1,5 +1,5 @@
 ### Hi there 👋
-   I am Abhay Patil pursuing my B.Tech in Mechanical engineering in  International Institute of Technology - Hyderabad expected to graduate by 2024. I am interested in Full-Stack Development, Machine Learning, Graphics Development and more.
+   I am Abhay Patil pursuing my B.Tech in Computer Science in  International Institute of Technology - Hyderabad expected to graduate by 2024. I am interested in Full-Stack Development, Machine Learning, Graphics Development and more.
 
 ### Connect with me:
 [<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abhayp2204/home)
